@@ -8,7 +8,7 @@ Introdução ao Ecossistema .NET & Documentação
 
 **2002** 
 
-- **Lançamento do C# e .NET Framework 1.0, já integrado com Visual Studio 2002 + ASP.NET **
+- **Lançamento do C# e .NET Framework 1.0, já integrado com Visual Studio 2002 + ASP.NET**
 - **Web Forms**
 
 **2005**
